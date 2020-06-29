@@ -1,8 +1,9 @@
 
-organization := $package$
-scalaVersion := $scalaVersion$
+organization := "$package$"
+scalaVersion := "$scalaVersion$"
+version := "$version"
 
 lazy val root = (project in file(".")).
   settings(
-    name := "g8-scala-sbt-simple",
+    name := "$name",
   )
