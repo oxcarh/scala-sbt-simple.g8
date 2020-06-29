@@ -1,12 +1,9 @@
-A [Giter8][g8] template for ...!
 
-Template license
+
+g8 Scala/SBT simple
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
-[other author/contributor lines as appropriate]
 
-To the extent possible under law, the author(s) have dedicated all copyright and related
-and neighboring rights to this template to the public domain worldwide.
-This template is distributed without any warranty. See <http://creativecommons.org/publicdomain/zero/1.0/>.
+A simple g8 template for starter projects.
 
-[g8]: http://www.foundweekends.org/giter8/
+'''
+>g8 oxcarh/g8-scala-sbt-simple.g8
