@@ -1,8 +1,9 @@
 
+Scala/SBT simple g8 Template
+---
 
-g8 Scala/SBT simple
-----------------
+1. Install (gitter8)[http://www.foundweekends.org/giter8/setup.html]
 
 A simple g8 template for starter projects.
 
->g8 oxcarh/g8-scala-sbt-simple.g8
+>g8 oxcarh/scala-sbt-simple.g8

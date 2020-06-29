@@ -1,3 +1,3 @@
-class Stub {
-  // got any helpful boilerplate for your users?
+object Main extends App {
+  prinltn("Main")  
 }
