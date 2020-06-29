@@ -1,6 +1,6 @@
 
-organization := "$organization$"
-scalaVersion := "$scalaVersion$"
+organization := $organization$
+scalaVersion := $scalaVersion$
 
 lazy val root = (project in file(".")).
   settings(
